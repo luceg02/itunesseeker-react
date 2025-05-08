@@ -3,16 +3,14 @@ ItuneSeeker is a mobile application developed with React Native using Expo. It a
 
 ## 🚀 Try the App
 
-Clone this repository to your computer:
+1. Clone this repository to your computer:
+```bash
+git clone https://github.com/your-username/itunesseeker.git
+```
+2. Open https://snack.expo.dev
 
-bash
-Copia
-Modifica
-git clone https://github.com/your-username/itunesseeker.git  
-Open https://snack.expo.dev
+3. Click on "New Snack" to create a new project
 
-Click on "New Snack" to create a new project
+4. Delete all default files created by Snack
 
-Delete all default files created by Snack
-
-Import the cloned project folder into Snack
+5. Import the cloned project folder into Snack
